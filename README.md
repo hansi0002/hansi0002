@@ -15,7 +15,7 @@ When I’m not coding, I enjoy learning new concepts and simplifying them so oth
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** C++, Python, SQL  
+**Languages:** C++, Python, SQL , JavaScript 
 **AI/ML:** TensorFlow, PyTorch, scikit-learn, OpenCV   
 **Databases:** MongoDB, MySQL, Firebase  
 
